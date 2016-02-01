@@ -1,2 +1,2 @@
-# merge-server
-test various merges for servers
+# master
+merge history test
